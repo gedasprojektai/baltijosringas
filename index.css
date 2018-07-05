@@ -1,0 +1,72 @@
+/**
+Theme Name: BaltijosRingas
+Authors: Gediminas Liutkus and Talal Mohsin
+Date: 2018-07-08;
+Version: 2.0;
+*/
+
+.banner{
+	background: url(images/2.jpg) no-repeat;
+	background-size: cover;
+}
+
+.banner h3{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	font-family: sans;
+	padding-top: 16%;
+}
+.banner h5{
+	font-size: 3em;
+	color: white;
+	text-align: center;
+}
+
+.banner h4{
+	font-size: 20px;
+	font-style: italic;
+	color: white;
+	text-align: center;
+}
+
+#button{
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+.Empty{
+	padding-bottom: 15%;
+}
+.logo{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.nav-item{
+	font-size: 18px;
+}
+
+.nav-item:hover{
+	font-size: 19px;
+}
+
+.info-header{
+	width: 50%;
+	margin: auto;
+	border-bottom: 1px #ddd solid;
+}
+#img{
+	margin-top: -50px;
+}
+.change:hover{
+	background-color: #428bca;
+	color: white;
+}
+.change1:hover{
+	background-color: #d9534f;
+	color: white;
+}
+#main-footer{
+	height: 180px;
+}
